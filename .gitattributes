@@ -1,1 +1,9 @@
 /Users/jorgeassis/Dropbox/Manuscripts/Global[[:space:]]estimates[[:space:]]of[[:space:]]coastal[[:space:]]oceanographic[[:space:]]connectivity/R[[:space:]]Code/Package[[:space:]]Build/Git/oceanographicConnectivity.RData filter=lfs diff=lfs merge=lfs -text
+of filter=lfs diff=lfs merge=lfs -text
+coastal filter=lfs diff=lfs merge=lfs -text
+oceanographic filter=lfs diff=lfs merge=lfs -text
+connectivity/R filter=lfs diff=lfs merge=lfs -text
+Code/Package filter=lfs diff=lfs merge=lfs -text
+Build/Git/oceanographicConnectivity.RData filter=lfs diff=lfs merge=lfs -text
+/Users/jorgeassis/Dropbox/Manuscripts/Global filter=lfs diff=lfs merge=lfs -text
+estimates filter=lfs diff=lfs merge=lfs -text
